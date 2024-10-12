@@ -9,16 +9,16 @@ I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 #### Make the words "This is unbelievable" both bold and italic:
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
-  ### "Headers"
-  #### For this next lesson, make each header the right size:
-  # Header one
-  ## Header two
-  ### Header three
-  #### Header four
-  ##### Header five
-  ###### Header six
+### "Headers"
+#### For this next lesson, make each header the right size:
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 #### Make the first line a heading level four, and italicize the name of the book:
- #### Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 ### "Links"
@@ -89,9 +89,9 @@ I read this interesting quote the other day:
  Be careful when holding the knife.
   
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
- ### Paragraphs
- #### Insert the necessary number of spaces to make the poem render correctly:
- We pictured the meek mild creatures where  
+### Paragraphs
+#### Insert the necessary number of spaces to make the poem render correctly:
+We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
