@@ -62,15 +62,17 @@ I read this interesting quote the other day:
 * Flour
 * Cheese
 * Tomatoes  
-#### Turn the rest of the recipe into an ordered list:
+### Turn the rest of the recipe into an ordered list:
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in flour  
-#### Turn the Latin names for the plants into italics:
+3. Rub the tomatoes in flour
+
+### Turn the Latin names for the plants into italics:
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)  
-#### Turn the character's characteristics into sub-bullets:
+* Dahlia (_Coreopsideae Dahlia_)
+
+### Turn the character's characteristics into sub-bullets:
 * Calculus
   * A professor
     * Has no hair
@@ -78,17 +80,19 @@ I read this interesting quote the other day:
 * Castafiore
   * An opera singer
     * Has white hair
-    * Is possibly mentally unwell  
-#### Convert the bullet points into their own paragraphs:
+    * Is possibly mentally unwell
+
+### Convert the bullet points into their own paragraphs:
 1. Cut the cheese  
-  
- Make sure that the cheese is cut into little triangles.
+
+   Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes  
-  
- Be careful when holding the knife.
-  
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+
+   Be careful when holding the knife.
+
+   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+
 ### Paragraphs
 #### Insert the necessary number of spaces to make the poem render correctly:
 We pictured the meek mild creatures where  
