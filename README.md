@@ -61,15 +61,15 @@ I read this interesting quote the other day:
 #### Turn the words separated by a comma into a list:
 * Flour
 * Cheese
-* Tomatoes
+* Tomatoes  
 #### Turn the rest of the recipe into an ordered list:
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in flour
+3. Rub the tomatoes in flour  
 #### Turn the Latin names for the plants into italics:
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)
+* Dahlia (_Coreopsideae Dahlia_)  
 #### Turn the character's characteristics into sub-bullets:
 * Calculus
   * A professor
@@ -78,7 +78,7 @@ I read this interesting quote the other day:
 * Castafiore
   * An opera singer
     * Has white hair
-    * Is possibly mentally unwell
+    * Is possibly mentally unwell  
 #### Convert the bullet points into their own paragraphs:
 1. Cut the cheese  
   
