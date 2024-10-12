@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Markdown Homework Page</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.1.3/marked.min.js"></script> <!-- Added marked.js -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -38,6 +39,11 @@
             padding: 10px;
             border-radius: 5px;
         }
+        #content {
+            border: 1px solid #ccc;
+            padding: 20px;
+            background-color: #fff;
+        }
     </style>
 </head>
 <body>
@@ -50,9 +56,19 @@
     </nav>
     <h2>Welcome to My Markdown Homework Page</h2>
     <p>This site contains my answers from Markdown lessons, along with helpful resources.</p>
-    <iframe src="README.md" style="width: 100%; height: 80vh;" frameborder="0"></iframe>
+    <div id="content"></div> <!-- Div to hold rendered Markdown content -->
     <footer>
         <p>&copy; 2024 Mehdi Tahari</p>
     </footer>
+    <script>
+        fetch('README.md') // Fetch the README.md file
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('content').innerHTML = marked(text); // Render Markdown to HTML
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = '<p>Error loading content.</p>'; // Handle errors
+            });
+    </script>
 </body>
 </html>
